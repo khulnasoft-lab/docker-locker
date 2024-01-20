@@ -1,3 +1,3 @@
-module github.com/moby/locker
+module github.com/khulnasoft-lab/docker-locker
 
 go 1.13
